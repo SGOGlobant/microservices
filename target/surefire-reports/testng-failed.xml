@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [pmsAutomation.MicroServicesTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="pmsAutomation.MicroServicesTest">
+        <methods>
+          <include name="greetingTest"/>
+          <include name="initServer"/>
+        </methods>
+      </class> <!-- pmsAutomation.MicroServicesTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [pmsAutomation.MicroServicesTest] -->
